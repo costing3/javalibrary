@@ -4,7 +4,7 @@ _____
 It includes:
 
 
--a database system using MySQL
+-a database system using SQLite
 
 -a register system
 
